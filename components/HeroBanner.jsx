@@ -16,7 +16,6 @@ const HeroBanner = ({ heroBanner }) => {
       />
 
       <div>
-      {console.log(heroBanner)}
         <Link href={`/product/jabra-elite`}>
           <button type="button">{heroBanner.buttonText}</button>
         </Link>
