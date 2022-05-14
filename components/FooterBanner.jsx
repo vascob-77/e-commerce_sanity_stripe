@@ -30,7 +30,7 @@ const FooterBanner = ({
           <p>{smallText}</p>
           <h3>{midText}</h3>
           <p>Meilleur casque audio</p>
-          <Link href={`/product/${product}`}>
+          <Link href={`/product/jabra-elite`}>
             <button type="button">{buttonText}</button>
           </Link>
         </div>
